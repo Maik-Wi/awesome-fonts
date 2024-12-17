@@ -1,0 +1,9 @@
+[submodule "sn-pro"]
+	path = sn-pro
+	url = https://github.com/supernotes/sn-pro
+[submodule "Darwin-Typeface"]
+	path = Darwin-Typeface
+	url = https://github.com/topological-modular-forms/Darwin-Typeface
+[submodule "monaspace"]
+	path = monaspace
+	url = https://github.com/githubnext/monaspace
